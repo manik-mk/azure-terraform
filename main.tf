@@ -5,6 +5,7 @@ terraform {
   #   container_name       = "tstate"
   #   key                  = "BCQEZtWYpT3+WbtMZj/JgRjgqyVtUd7OG1MBtriIYxv99q2RVSg9jr3Y94YMxW9MoXQ45nelhUCu+AStaHCNUg=="
   # }
+  #
   required_providers {
     azurerm = {
       source = "hashicorp/azurerm"
